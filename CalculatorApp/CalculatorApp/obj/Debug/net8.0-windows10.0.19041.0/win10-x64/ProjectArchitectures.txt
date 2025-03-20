@@ -1,0 +1,1 @@
+C:\Users\thedu\source\repos\CalculatorApp\CalculatorApp\CalculatorApp.csproj;x64
